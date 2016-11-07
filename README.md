@@ -1,3 +1,3 @@
-# InvestmentGuide
+# 本書簡介
 
 Guide
